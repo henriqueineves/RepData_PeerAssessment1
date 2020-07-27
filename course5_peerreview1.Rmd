@@ -2,7 +2,9 @@
 title: "Course5_Week 2_Peer Review Assignment"
 author: "Henrique I. Neves"
 date: "27/07/2020"
-output: html_document
+output:
+html_document:
+    keep_md: true
 ---
 
 This is a document created for the first Peer Review assignment of the Course 5,
